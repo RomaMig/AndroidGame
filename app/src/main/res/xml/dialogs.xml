@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogs>
+    <dialog number="0">
+        <phrase
+            who="Маг"
+            emotion="questioningly">Эй, кто ты?</phrase>
+        <phrase
+            who="Герой"
+            emotion="order">Я просто мимо прохожу</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Будь осторожен, в этом подземелье полно крыс!</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">Хорошо... Буду иметь в виду</phrase>
+    </dialog>
+    <dialog number="1">
+        <phrase
+            who="Маг"
+            emotion="order">Что ты тут делаешь, незнакомец?</phrase>
+        <phrase
+            who="Герой"
+            emotion="order">Я ищу похищенную принцессу</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Тебе известно кто ее похител?</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">Дракон</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Не смеши меня, драконов не существует!</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">У меня нет времени тебе что-то доказывать</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">В любом случае, чтобы пройти дальше,</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">ты должен разгадать три моих загадки</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">Что еще за загадки? И почему их всегда три?</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">Это яйцо?</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Нет, почему яйцо?</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">Обычно, ответ яйцо</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Росло четыре сейбы,</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">На каждой по четыре больших ветки,</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">На каждой большой ветке по четыре маленьких ветки,</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">На каждой маленькой ветке по четыре маммеи.</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Сколько всего маммей?</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">Хм, я всерьез задумался</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">Сколько маммей растет на сейбе?</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">а что если маммея не растет на сейбе?</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">Хорошо, маг, мой ответ - нисколько</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Хм, хорошо.</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Можешь идти дальше, но не думай, что это конец.</phrase>
+    </dialog>
+    <dialog number="2">
+        <phrase
+            who="Маг"
+            emotion="order">Ну что? Ты нашел того, кого искал?</phrase>
+        <phrase
+            who="Герой"
+            emotion="order">Пока еще нет</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">А ты не задумывался что поиски бесполезны?</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">Даже если так, дороги назад нет</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">Вернусь с пустыми руками - король отправит на плаху</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">В любом случае, чтобы пройти дальше,</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">ты должен разгадать оставшиеся загадки</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">Говори свою загадку</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">К реке подходят два человека</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">У берега лодка</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Она может выдержать только одного</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Оба человека переправились на противоположный берег</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Как они это сделали?</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">Вплавь</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Не хитри</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">Тогда остается только один вариант</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">один из них</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">уже был на другом берегу</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Хорошо</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Можешь идти дальше, но не думай, что это конец.</phrase>
+    </dialog>
+    <dialog number="3">
+        <phrase
+            who="Маг"
+            emotion="order">Что ты тут делаешь, незнакомец?</phrase>
+        <phrase
+            who="Герой"
+            emotion="order">Я ищу похищенную принцессу</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Тебе известно кто ее похител?</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">Дракон</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Не смеши меня, драконов не существует!</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">У меня нет времени тебе что-то доказывать</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">В любом случае, чтобы пройти дальше,</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">ты должен разгадать три моих загадки</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">Что еще за загадки? И почему их всегда три?</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">Это яйцо?</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Нет, почему яйцо?</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">Обычно, ответ яйцо</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Росло четыре сейбы,</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">На каждой по четыре больших ветки,</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">На каждой большой ветке по четыре маленьких ветки,</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">На каждой маленькой ветке по четыре маммеи.</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Сколько всего маммей?</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">Хм, я всерьез задумался</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">Сколько маммей растет на сейбе?</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">а что если маммея не растет на сейбе?</phrase>
+        <phrase
+            who="Герой"
+            emotion="facepalm">Хорошо, маг, мой ответ - нисколько</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Хм, хорошо.</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Можешь идти дальше, но не думай, что это конец.</phrase>
+    </dialog>
+    <dialog number="4">
+        <phrase
+            who="Маг"
+            emotion="exclamation">О! Опять ты!</phrase>
+        <phrase
+            who="Герой"
+            emotion="questioningly">Ну что? Дашь мне еще один полезный совет?</phrase>
+        <phrase
+            who="Маг"
+            emotion="order">Дай подумать, нет. Но у меня есть предложение</phrase>
+        <phrase
+            who="Герой"
+            emotion="questioningly">Хорошо, я слушаю</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Давай поиграем в игру!</phrase>
+        <phrase
+            who="Герой"
+            emotion="order">Хм, разве мы и так не играем?</phrase>
+        <phrase
+            who="Маг"
+            emotion="order">Нет, я предлагаю поиграть во что-то более стоящее</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">В величайшую игру всех времен!</phrase>
+        <phrase
+            who="Маг"
+            emotion="exclamation">Крестики-нолики!</phrase>
+        <phrase
+            who="Герой"
+            emotion="questioningly">И зачем мне играть с тобой?</phrase>
+        <phrase
+            who="Маг"
+            emotion="order">Если ты выйграешь, то узнаешь где принцесса</phrase>
+        <phrase
+            who="Герой"
+            emotion="questioningly">Как играть?</phrase>
+        <phrase
+            who="Маг"
+            emotion="order">Это очень просто</phrase>
+        <phrase
+            who="Маг"
+            emotion="order">Есть доска 6x6</phrase>
+        <phrase
+            who="Маг"
+            emotion="order">делаем ходы, ты - крестик, я - нолик</phrase>
+        <phrase
+            who="Маг"
+            emotion="order">побеждает тот, кто первый выстроит 4 фигуры в ряд</phrase>
+        <phrase
+            who="Маг"
+            emotion="questioningly">Начнем?</phrase>
+        <phrase
+            who="Герой"
+            emotion="exclamation">Да!</phrase>
+        <phrase
+            who="Маг"
+            emotion="questioningly">Ха, неплохо поиграли</phrase>
+        <phrase
+            who="Герой"
+            emotion="exclamation">Так и где же тот выход, о котором говорил?</phrase>
+        <phrase
+            who="Маг"
+            emotion="questioningly">А выход в том, что принцессы не было!</phrase>
+        <phrase
+            who="Герой"
+            emotion="exclamation">Как не было?</phrase>
+        <phrase
+            who="Маг"
+            emotion="questioningly">Это была иллюзия</phrase>
+        <phrase
+            who="Маг"
+            emotion="questioningly">Я наслал на короля видение</phrase>
+        <phrase
+            who="Маг"
+            emotion="questioningly">Чтобы он послал тебя сюда</phrase>
+        <phrase
+            who="Маг"
+            emotion="questioningly">И я смог с тобой поиграть</phrase>
+        <phrase
+            who="Герой"
+            emotion="exclamation">Довольно</phrase>
+        <phrase
+            who="Герой"
+            emotion="exclamation">Я все понял</phrase>
+        <phrase
+            who="Герой"
+            emotion="exclamation">Теперь мне нет пути назад</phrase>
+        <phrase
+            who="Герой"
+            emotion="exclamation">И лучше</phrase>
+        <phrase
+            who="Герой"
+            emotion="exclamation">я буду блуждать и дальше по этому подземелью</phrase>
+        <phrase
+            who="Маг"
+            emotion="questioningly">Тогда прощай, доблестный рыцарь!</phrase>
+        <phrase
+            who="Герой"
+            emotion="exclamation">Прощай, проклятый маг!</phrase>
+    </dialog>
+</dialogs>
